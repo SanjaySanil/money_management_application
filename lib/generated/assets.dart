@@ -4,5 +4,6 @@ class Assets {
 
   static const String homeScreenBg = 'assets/images/home_screen/bg.jpg';
   static const String homeScreenCover = 'assets/images/home_screen/cover.jpg';
+  static const String imagesHomeScreenCover = 'assets/images/home_screen/cover.webp';
 
 }
